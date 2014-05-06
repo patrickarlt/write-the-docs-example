@@ -1,0 +1,19 @@
+$cream: #faf7f2;
+$turquoise: #68bacc;
+$coral: #d47499;
+$gray: #343434;
+
+body {
+  background: $cream;
+  color: $gray;
+  width: 50%;
+  margin: 3em auto;
+  font-family: 'Open Sans', sans-serif;
+}
+
+a {
+  color: $turquoise;
+  &:hover {
+    color: $coral;
+  }
+}
