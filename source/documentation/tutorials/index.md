@@ -1,11 +1,11 @@
 ---
-title: Documentation
+title: Tutorial
 layout: documentation
 ---
 
-# Welcome To The Docs
+# Getting Started
 
 We have all sorts of stuff you to read, or we will soon.
 
-![Kitten](http://placekitten.com/200/200)
+![Kitten](http://placekitten.com/500/500)
 
