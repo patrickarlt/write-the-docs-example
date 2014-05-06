@@ -1,0 +1,14 @@
+/* line 6, /Users/patricklocal/code/write-the-docs-example/source/stylesheets/all.css.scss */
+body {
+  background: #faf7f2;
+  color: #343434;
+  width: 50%;
+  margin: 3em auto;
+  font-family: 'Open Sans', sans-serif; }
+
+/* line 14, /Users/patricklocal/code/write-the-docs-example/source/stylesheets/all.css.scss */
+a {
+  color: #68bacc; }
+  /* line 16, /Users/patricklocal/code/write-the-docs-example/source/stylesheets/all.css.scss */
+  a:hover {
+    color: #d47499; }
